@@ -20,5 +20,13 @@ private:
 	sf::RenderWindow* window;
 
 	sf::RectangleShape rect;
+	sf::RectangleShape rectDos;
+	sf::RectangleShape theThirdRectangleThatImmaDoing;
+
+	sf::RectangleShape NEWrectangleBiggerAndBetterThanEverB4;
+
 	sf::CircleShape circle;
+
+	sf::Font font;
+	sf::Text text;
 };
